@@ -1,0 +1,10 @@
+font-size: 15px;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.tag {
+  background-color: #FFA1D0;
+  color: #fff;
